@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am about to finish Masterschool's Web Development Bootcamp and looking forward to find
-my first position as a frontend dev ❤❤❤
+- 🏁 I am about to finish Masterschool's Web Development Bootcamp and looking forward to find 💜
+- 👩‍💻 my first position as a frontend dev 💚

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I've just finished Masterschool's Web Development Bootcamp and am looking forward 
+I've just finished Masterschool's Web Development Bootcamp and am looking forward \n
 to starting my first position as a developer at adesso insurance solutions ❤💃
 
 <!--

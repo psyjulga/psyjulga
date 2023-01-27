@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I've just finished Masterschool's Web Development Bootcamp and am looking forward 
+to starting my first position as a developer at adesso insurance solutions ❤💃
+
 <!--
 **psyjulga/psyjulga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏁 I am about to finish Masterschool's Web Development Bootcamp and looking forward to find 💜
-- 👩‍💻 my first position as a frontend dev 💚
+

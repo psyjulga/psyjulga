@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-I've successfully finished Masterschool's Web Development Bootcamp\ 
-and am so much looking forward to starting my first position as a\
+I've successfully finished Masterschool's Web Development Bootcamp
+
+and am so much looking forward to starting my first position as a
+
 Software Developer at Adesso Insurance Solutions ❤💃
 
 <!--

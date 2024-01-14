@@ -2,9 +2,9 @@
 
 I've successfully finished Masterschool's Web Development Bootcamp
 
-and am so happy to work in my first position as a
+and am so happy to work in my first position as a Software Developer 
 
-Software Developer at Adesso Insurance Solutions ❤💃
+at Adesso Insurance Solutions ❤💃
 
 <!--
 **psyjulga/psyjulga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
